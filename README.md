@@ -3,7 +3,6 @@
 Mini project of NLP course in CCI
 
 Name: Te Lan
-Student Number: 21025237
 
 **This Project contains a webscraper and a collection of corpus analyzing methods.**
 
