@@ -1,8 +1,6 @@
 # Corpus Analyzing: Gaining Insights from DOUBAN Discussion Post
 
-Mini project of NLP course in CCI
-
-Name: Te Lan
+*A project from NLP course in UAL Creative Computing Institute.*
 
 **This Project contains a webscraper and a collection of corpus analyzing methods.**
 
