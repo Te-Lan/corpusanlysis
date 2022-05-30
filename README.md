@@ -1,8 +1,8 @@
 # Corpus Analyzing: Gaining Insights from DOUBAN Discussion Post
 
-*A project from NLP course in UAL Creative Computing Institute.*
+*A project from NLP course(IU000131) in UAL Creative Computing Institute.*
 
-**This Project contains a webscraper and a collection of corpus analyzing methods.**
+### A webscraper and a collection of corpus analyzing methods is used in this project.
 
 ### Webscraper
 Designed for DOUBAN(Chinese Social Media) platform, specifically for discussion post under the section of "Group".
